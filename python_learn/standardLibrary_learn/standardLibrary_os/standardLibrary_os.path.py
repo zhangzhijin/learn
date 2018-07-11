@@ -16,4 +16,4 @@ import os
 # print(os.path.getatime('./read2.txt'))
 # print(os.path.getctime('./read2.txt'))
 # print(os.path.getmtime('./read2.txt'))
-print(os.path.getsize('./read2.txt'))
+# print(os.path.getsize('./read2.txt'))

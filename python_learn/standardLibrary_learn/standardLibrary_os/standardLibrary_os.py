@@ -16,4 +16,5 @@ import os
 # print(os.sep)
 # print(os.name)
 # print(os.linesep)
-print(os.pathsep)
+# print(os.pathsep)
+# print(os.listdir("."))
