@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7c33670-5e0f-4e31-a6c6-fdfab6b86be3" name="Default" comment="add">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/basesytax/myyield.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_os/standardLibrary_fileoperation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_urllib/urllib.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python_learn/01_class/02_jicheng.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python_learn/01_class/03_duotai.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python_learn/01_class/DOG.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/learn.iml" afterPath="$PROJECT_DIR$/.idea/learn.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders/fistspider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/start.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/myspider.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_learn/standardLibrary_learn/内置模块os.path.py" afterPath="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_os/standardLibrary_os.path.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_learn/standardLibrary_learn/内置模块os.py" afterPath="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_os/standardLibrary_os.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/python_learn/standardLibrary_learn/内置模块os.stat.py" afterPath="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_os/standardLibrary_os.stat.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +19,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myspider.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/myspider.py">
+      <file leaf-file-name="scrapy.cfg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/scrapy.cfg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fistspider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders/fistspider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="start.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -60,10 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python1/01_class/server.py" />
-        <option value="$PROJECT_DIR$/python1/搜索路径.py" />
-        <option value="$PROJECT_DIR$/python1/myssh/ssh_client.py" />
-        <option value="$PROJECT_DIR$/python1/myssh/main.py" />
         <option value="$PROJECT_DIR$/python1/client.py" />
         <option value="$PROJECT_DIR$/python1/server.py" />
         <option value="$PROJECT_DIR$/python1/内置变量.py" />
@@ -111,10 +139,14 @@
         <option value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/scrapy.py" />
         <option value="$PROJECT_DIR$/python_learn/basesytax/myyield.py" />
         <option value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/myspider.py" />
+        <option value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstspider.py" />
+        <option value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/items.py" />
+        <option value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders/fistspider.py" />
+        <option value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders/start.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="201" />
     <option name="y" value="204" />
     <option name="width" value="1582" />
@@ -192,6 +224,23 @@
               <item name="thirdpartLibrary_learn" type="462c0819:PsiDirectoryNode" />
               <item name="thirdpartyLibrary_scrapy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="python_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdpartLibrary_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdpartyLibrary_scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="firstscrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="python_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdpartLibrary_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdpartyLibrary_scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="firstscrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="firstscrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,23 +250,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/start.py" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zzj\11_programfile\learn\python_learn\thirdpartLibrary_learn\thirdpartyLibrary_scrapy\firstscrapy" />
+      <recent name="D:\zzj\11_programfile\learn\python_learn" />
+      <recent name="D:\zzj\11_programfile\learn\python_learn\standardLibrary_learn\standardLibrary_os" />
+      <recent name="D:\zzj\11_programfile\python_work\python1\standardLibrary_learn" />
+      <recent name="D:\zzj\11_programfile\python_work\python1\standardLibrary_learn\standardLibrary_json" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\zzj\11_programfile\python_work\python1\standardLibrary_learn\standardLibrary_queue" />
       <recent name="D:\zzj\11_programfile\python_work\python1\标准模块\标准模块threading" />
       <recent name="D:\zzj\11_programfile\python_work\python1\标准模块" />
       <recent name="D:\zzj\11_programfile\python_work\python1\内置模块JSON" />
       <recent name="D:\zzj\11_programfile\python_work\python1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\zzj\11_programfile\learn\python_learn" />
-      <recent name="D:\zzj\11_programfile\learn\python_learn\standardLibrary_learn\standardLibrary_os" />
-      <recent name="D:\zzj\11_programfile\python_work\python1\standardLibrary_learn" />
-      <recent name="D:\zzj\11_programfile\python_work\python1\standardLibrary_learn\standardLibrary_json" />
-      <recent name="D:\zzj\11_programfile\python_work\python1\standardLibrary_learn\standardLibrary_threading" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -232,20 +281,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.myspider (1)">
-    <configuration name="PriorityQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.fistspider">
+    <configuration name="firstspider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1/standardLibrary_learn/standardLibrary_queue" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_work" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/standardLibrary_learn/standardLibrary_queue/PriorityQueue.py" />
+      <module name="learn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstspider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="fistspider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,53 +367,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/scrapy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="urllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learn" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_urllib/urllib.py" />
+      <option name="SCRIPT_NAME" value="D:\zzj\11_programfile\learn\python_learn\thirdpartLibrary_learn\thirdpartyLibrary_scrapy\firstscrapy\start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PriorityQueue" />
-      <item index="1" class="java.lang.String" itemvalue="Python.urllib" />
-      <item index="2" class="java.lang.String" itemvalue="Python.myspider" />
-      <item index="3" class="java.lang.String" itemvalue="Python.myspider (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.myyield" />
+      <item index="0" class="java.lang.String" itemvalue="Python.myspider" />
+      <item index="1" class="java.lang.String" itemvalue="Python.myspider (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.myyield" />
+      <item index="3" class="java.lang.String" itemvalue="Python.fistspider" />
+      <item index="4" class="java.lang.String" itemvalue="Python.start" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.myspider (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.myyield" />
-        <item index="2" class="java.lang.String" itemvalue="Python.myspider" />
-        <item index="3" class="java.lang.String" itemvalue="Python.urllib" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.fistspider" />
+        <item index="1" class="java.lang.String" itemvalue="Python.start" />
+        <item index="2" class="java.lang.String" itemvalue="Python.myspider (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.myyield" />
+        <item index="4" class="java.lang.String" itemvalue="Python.myspider" />
       </list>
     </recent_temporary>
   </component>
@@ -373,16 +423,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="201" y="204" width="1582" height="703" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2521322" sideWeight="0.48870057" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3219448" sideWeight="0.48870057" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33044422" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33044422" sideWeight="0.4914712" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27719298" sideWeight="0.1412615" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27735645" sideWeight="0.8726013" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27719298" sideWeight="0.8587385" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25782415" sideWeight="0.51129943" order="2" side_tool="true" content_ui="tabs" />
@@ -393,6 +442,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33044422" sideWeight="0.4914712" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -415,27 +465,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python1/del.txt" />
-    <entry file="file://$PROJECT_DIR$/python1/read1.txt" />
-    <entry file="file://$PROJECT_DIR$/python1/test.txt" />
-    <entry file="file://$PROJECT_DIR$/python1/read2.txt" />
-    <entry file="file://$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_os/standardLibrary_os.stat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python1/a.py" />
-    <entry file="file://$PROJECT_DIR$/python_learn/myssh/ssh_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python1/standardLibrary_learn/内置模块JSON/test.json" />
-    <entry file="file://$PROJECT_DIR$/python1/标准模块/内置模块threading/test.json" />
     <entry file="file://$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_threading/thread.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -646,14 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../anaconda3-5.2.0/Lib/site-packages/scrapy/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2842">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/scrapy.py" />
     <entry file="file://$PROJECT_DIR$/../anaconda3-5.2.0/Lib/site-packages/scrapy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -666,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,14 +694,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/myspider.py" />
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/quotes.json" />
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstspider.py" />
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../anaconda3-5.2.0/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding>
+            <element signature="e#84#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../anaconda3-5.2.0/Lib/site-packages/scrapy/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1059">
+          <caret line="100" column="6" lean-forward="false" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+          <folding>
+            <element signature="e#64#90#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/myspider.py">
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders/fistspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="41" />
           <folding />
         </state>
       </provider>
