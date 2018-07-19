@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7c33670-5e0f-4e31-a6c6-fdfab6b86be3" name="Default" comment="add">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/csdn/csdn.net.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_re/myre.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_urllib/csdnblog_urllib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartLibrary_numpy/basenumpy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/csdnblog.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/csdnscrapy/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/csdnscrapy/items.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/csdnscrapy/middlewares.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/csdnscrapy/pipelines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/csdnscrapy/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/csdnscrapy/spiders/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/csdnscrapy/spiders/csdnspider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/scrapy.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/csdnscrapy/start.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_urllib/urllib.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/pipelines.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/itcast1.csv" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/items.py" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/settings.py" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders/fistspider.py" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders/fistspider.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/start.py" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/start.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartLibrary_numpy/basenumpy.py" afterPath="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartLibrary_numpy/basenumpy.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,8 +20,18 @@
       <file leaf-file-name="basenumpy.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartLibrary_numpy/basenumpy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="127">
+              <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="190" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="npyio.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../anaconda3-5.2.0/Lib/site-packages/numpy/lib/npyio.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="1494" column="28" lean-forward="false" selection-start-line="1494" selection-start-column="15" selection-end-line="1494" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -128,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="288" />
     <option name="y" value="337" />
     <option name="width" value="1582" />
@@ -240,7 +230,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.start (1)">
+  <component name="RunManager" selected="Python.basenumpy">
+    <configuration name="basenumpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartLibrary_numpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learn" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartLibrary_numpy/basenumpy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="csdnblog_urllib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,37 +333,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartyLibrary_scrapy/firstscrapy/firstscrapy/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learn" />
-      <option name="SCRIPT_NAME" value="D:\zzj\11_programfile\learn\python_learn\thirdpartLibrary_learn\thirdpartyLibrary_scrapy\firstscrapy\start.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.start" />
-      <item index="1" class="java.lang.String" itemvalue="Python.csdnblog_urllib" />
-      <item index="2" class="java.lang.String" itemvalue="Python.csdnspider" />
-      <item index="3" class="java.lang.String" itemvalue="Python.csdnspider (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.start (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.csdnblog_urllib" />
+      <item index="1" class="java.lang.String" itemvalue="Python.csdnspider" />
+      <item index="2" class="java.lang.String" itemvalue="Python.csdnspider (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.start (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.basenumpy" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.start (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.csdnspider (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.csdnspider" />
-        <item index="3" class="java.lang.String" itemvalue="Python.csdnblog_urllib" />
-        <item index="4" class="java.lang.String" itemvalue="Python.start" />
+        <item index="0" class="java.lang.String" itemvalue="Python.basenumpy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.start (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.csdnspider (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.csdnspider" />
+        <item index="4" class="java.lang.String" itemvalue="Python.csdnblog_urllib" />
       </list>
     </recent_temporary>
   </component>
@@ -382,15 +372,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="288" y="337" width="1582" height="703" extended-state="1" />
+    <frame x="288" y="337" width="1582" height="703" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34954008" sideWeight="0.48870057" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24912281" sideWeight="0.1064389" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35263157" sideWeight="0.11103811" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924694" sideWeight="0.49474376" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24912281" sideWeight="0.8935611" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35263157" sideWeight="0.8889619" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.49737188" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25782415" sideWeight="0.51129943" order="2" side_tool="true" content_ui="tabs" />
@@ -424,13 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_time/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_learn/standardLibrary_learn/standardLibrary_queue/FifoQueue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -641,7 +624,7 @@
         <state relative-caret-position="450">
           <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding>
-            <element signature="e#194#207#0" expanded="true" />
+            <element signature="e#194#207#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -667,7 +650,7 @@
         <state relative-caret-position="500">
           <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
-            <element signature="e#164#178#0" expanded="true" />
+            <element signature="e#164#178#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -698,10 +681,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../anaconda3-5.2.0/Lib/site-packages/numpy/lib/npyio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1494" column="28" lean-forward="false" selection-start-line="1494" selection-start-column="15" selection-end-line="1494" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python_learn/thirdpartLibrary_learn/thirdpartLibrary_numpy/basenumpy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="127">
+          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="190" selection-end-column="8" />
           <folding />
         </state>
       </provider>
