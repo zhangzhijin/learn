@@ -9,4 +9,4 @@
 @desc:
 '''
 from scrapy import cmdline
-cmdline.execute("scrapy crawl first_scrpy -o itcast1.csv".split())
+cmdline.execute("scrapy crawl csdnblogspider -t csdnblogspider.txt".split())

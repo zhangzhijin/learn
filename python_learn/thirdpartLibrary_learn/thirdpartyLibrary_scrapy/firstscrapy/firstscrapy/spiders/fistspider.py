@@ -15,7 +15,7 @@ sys.path.insert(0,project_dir)
 import scrapy
 import firstscrapy.items
 class FistScrapy(scrapy.Spider):
-    name='first_scrpy'
+    name='first_scrapy'
     # def start_requests(self):
     #     urls=['http://quotes.toscrape.com/page/1/','http://quotes.toscrape.com/page/2/']
     #     for url in urls:
