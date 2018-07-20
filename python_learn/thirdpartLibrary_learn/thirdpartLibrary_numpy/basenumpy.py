@@ -9,8 +9,8 @@
 @desc:
 '''
 import  numpy
-a=[1,2,3,4]
-b=numpy.array(a)
+# a=[1,2,3,4]
+# b=numpy.array(a)
 # print(b)
 # print(b.size)
 # print(b.ndim)
@@ -186,6 +186,53 @@ b=numpy.array(a)
 # g=numpy.reciprocal(a)
 # print(g)
 
-a = numpy.array([10,11,10])
-b=numpy.amax(a,axis=0)
-print(a)
+# a = numpy.array([10,11,10])
+# b=numpy.amax(a,axis=0)
+# print(a)
+
+
+# a = numpy.array([[3,7],[9,1]])
+# b=numpy.sort(a,axis=0)
+# print(b)
+
+# a = numpy.array([[3,7],[9,1]])
+# print(a)
+# print(id(a))
+# print()
+# b=a
+# print(id(b))
+
+
+# a = numpy.array([[3,7],[9,1]])
+# print(id(a))
+# print()
+# b=a.copy()
+# print(id(b))
+
+import numpy.matlib
+# a=numpy.matlib.empty((2,3))
+# print(a)
+
+
+# a=numpy.matlib.zeros((2,3))
+# print(a)
+
+# a=numpy.matlib.rand((2,3))
+# print(a)
+
+# import numpy.linalg
+# import numpy
+# a=numpy.array([1,2,3],[1,2,3])
+# b=numpy.array([1,2],[1,2],[1,2])
+# c=numpy.dot(a,b)
+# print(c)
+# import numpy
+# a=numpy.array([1,2,3])
+# numpy.save('a_file.npy',a)
+# b=numpy.load('a_file.npy')
+# print(b)
+
+a=numpy.array([1,2,3])
+numpy.savetxt('a_file.txt',a)
+b=numpy.loadtxt('a_file.txt')
+print(b)
